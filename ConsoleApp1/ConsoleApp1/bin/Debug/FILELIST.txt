@@ -1,6 +1,0 @@
-Дата создания списка:	15.08.2018 21:29:51
-№	Дата изменения 		Путь до файла
-1	28.04.2018 8:14:01 	D:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.exe
-2	28.04.2018 8:14:01 	D:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.exe.config
-3	28.04.2018 8:14:01 	D:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.pdb
-4	28.04.2018 8:14:01 	D:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.txt
