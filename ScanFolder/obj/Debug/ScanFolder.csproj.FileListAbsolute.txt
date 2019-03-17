@@ -1,0 +1,10 @@
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\bin\Debug\ScanFolder.exe.config
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\bin\Debug\ScanFolder.exe
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\bin\Debug\ScanFolder.pdb
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.csprojAssemblyReference.cache
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.Form1.resources
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.Properties.Resources.resources
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.csproj.GenerateResource.cache
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.csproj.CoreCompileInputs.cache
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.exe
+C:\Users\Лего\source\repos\ScanFolder\ScanFolder\obj\Debug\ScanFolder.pdb
