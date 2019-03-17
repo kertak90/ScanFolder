@@ -1,0 +1,7 @@
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\obj\Debug\FileScaner.csproj.CoreCompileInputs.cache
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\obj\Debug\FileScaner.csprojResolveAssemblyReference.cache
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.exe.config
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.exe
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\bin\Debug\FILELIST.pdb
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\obj\Debug\FILELIST.exe
+G:\C# projects\Сканирование папок\ConsoleApp1\ConsoleApp1\obj\Debug\FILELIST.pdb
